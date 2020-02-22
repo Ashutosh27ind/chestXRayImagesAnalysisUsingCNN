@@ -12,4 +12,4 @@ This same methodology can be used to spot various other illnesses that can be de
 Due to the github file-size instruction the training XRay data is not loaded here.  
 Please note that you need to do below to use the code:  
 1. Create sub-directory "models" to store the best model created in present directory.  
-2. Create two directory namely "effusion/" and "nofinding/" into one common folder to store the input Xray images data.  
+2. Create two directory namely "effusion/" and "nofinding/" into one common folder "/CXR_data/" to store the input Xray images data.  
