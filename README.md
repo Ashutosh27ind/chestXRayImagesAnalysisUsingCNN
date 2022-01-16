@@ -1,6 +1,8 @@
 # chestXRayImagesAnalysisUsingCNN
 Working with Chest X-Ray (CXR) images : Medical Imaging
 
+![alt text](https://github.com/Ashutosh27ind/chestXRayImagesAnalysisUsingCNN/blob/main/chestxray.PNG?raw=true)
+
 ## Objective:
 Neural networks have revolutionised image processing in several different domains. Among these is the field of medical imaging. In the following notebook, we will get some hands-on experience in working with Chest X-Ray (CXR) images.  
 
